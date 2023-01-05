@@ -30,3 +30,4 @@ MIT liscense
 
 ---
 ## Deployed Application
+https://take-notesss.herokuapp.com 
